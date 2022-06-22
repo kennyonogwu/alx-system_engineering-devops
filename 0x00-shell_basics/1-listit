@@ -1,2 +1,2 @@
-#!/bin/bash Applications Documents Dropbox Movies Pictures Desktop Downloads Library Music Public README.md
+#!/bin/bash Applications Documents Dropbox Movies Pictures Desktop Downloads Library Music
 ls
